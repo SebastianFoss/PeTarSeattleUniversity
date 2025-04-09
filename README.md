@@ -1,3 +1,9 @@
+This fork has been made for use by the Seattle University Physics Department. 
+
+Desired changes: 
+- support for plotting the expected location of tidal debris in the Milky Way’s bulge and identify/combine the most useful N-body code for refining the theoretical predictions.
+
+
 ```
     ██████╗ ███████╗████████╗ █████╗ ██████╗ 
     ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
